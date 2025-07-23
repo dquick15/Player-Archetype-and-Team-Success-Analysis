@@ -46,7 +46,8 @@ The analysis utilizes two primary datasets:
     * *Insight:* A higher number of 'Interior Force' players shows the strongest negative correlation with team winning percentage, suggesting that teams heavily reliant on this archetype may struggle.
 
 * **Top Performing Teams' Archetype Composition**:
-    
+    * Image of Top 5 teams included in the repository. 
+
 
 * **Visualizations**:
     * Box plots show how win percentages vary with the count of each archetype
